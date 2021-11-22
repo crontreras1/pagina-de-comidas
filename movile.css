@@ -1,0 +1,43 @@
+@media only screen and (max-width: 768px) {
+
+    .hero-container {
+        display: block;
+    }
+
+    .hero-info {
+        margin: 40px;
+        text-align: center;
+        justify-content: center;
+    }
+    
+    .hero-image {
+        width: 80%;
+        margin: 40px;
+    }
+
+    .dishes-title {
+        margin: 10px;
+    }
+    
+    .dishes-grid {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        grid-template-rows: repeat(4, auto);
+        width: 80%;
+        margin: 40px;
+    }
+    
+    .menu-container {
+        display: flex;
+        flex-direction: column;
+        align-content: center;
+    }
+    
+    .menu-grid {
+        display: block;
+    }
+
+    .menu-item {
+        margin: 10px;
+    }
+}
