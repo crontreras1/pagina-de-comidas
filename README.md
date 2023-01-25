@@ -12,7 +12,7 @@ Página: [GitHub](https://crontreras1.github.io/pagina-de-comidas/)
 - CSS Grid
 
 ## Pantallazo 
-![](./src/screenshot-landing-suprote.png)
+![](./screenshot-pagina-de-comidas.png)
 
 ## Licencia
 Licencia MIT
